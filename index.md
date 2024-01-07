@@ -5,7 +5,9 @@ Testing out different markdown (MD) functions:
 *Italics*
 **BOLD**
 # Heading 1
+# HEADIN 1.2
 ## Heading 2
+## Headin q2.2
 [Link](https://google.com) 
 
 > Blockquote
